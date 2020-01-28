@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/Sandipan99/POLAR.svg)](http://hits.dwyl.io/Sandipan99/POLAR)
+
+
 Requirements
   1. Numpy
   2. Sklearn
