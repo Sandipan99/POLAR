@@ -26,5 +26,5 @@ The code is commented for ease of use
 
 ### Embeddings Files
 The links for the embeddings used -
-http://nlp.stanford.edu/data/glove.42B.300d.zip (glove)
-https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing (word2vec)
+* http://nlp.stanford.edu/data/glove.42B.300d.zip (glove)
+* https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing (word2vec)
