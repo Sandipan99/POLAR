@@ -7,7 +7,13 @@
 ***Please cite our paper in any published work that uses any of these resources.***
 
 ~~~
--- coming up.
+@inproceedings{mathew2020polar,
+  title={The POLAR Framework: Polar Opposites Enable Interpretability of Pre-Trained Word Embeddings},
+  author={Mathew, Binny and Sikdar, Sandipan and Lemmerich, Florian and Strohmaier, Markus},
+  booktitle={Proceedings of The Web Conference 2020},
+  pages={1548--1558},
+  year={2020}
+}
 ~~~
 
 ## Abstract
